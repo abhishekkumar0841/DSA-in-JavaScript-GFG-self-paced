@@ -1,0 +1,34 @@
+ROAD MAP TO LEARN DSA
+
+- Learn a programming language
+    - C++, Java, Python, JavaScript
+
+- Learn DSA basics
+    - Examples 👇
+    - Learn array data structures
+    - When to use array data structures
+    - Do same thing for linked-lists, stack, queues, binary-search-tree, graphs, etc.
+    - Also learn about Algorithms like: - binary-search, quick-sort, merge-sort, dynamic-programming, longest-common-subsequence, knapsack-problem, back-tracking, etc. Learn all these algorithms and also when we should to use these algorithms.
+
+- Implement those basics
+    - Examples 👇
+    - Implement stack data structure
+    - Implement your own push and pop functions.
+    - Implement all types of linked-lists like:- singly, doubly, circular.
+
+- Learn language libraries to implement Data Structures
+    - Like for C++ is STL (standard template library). 
+    - For Java is Collections
+    - In Python most of the things already supported by the language it self.
+    - In JavaScript also most of the things are already supported
+        - Like:- Arrays in JavaScript is Dynamic by default
+            - Sort is available for sorting the elements
+            - Map implementation of hashing
+            - Set implementation of hashing
+    - Note:- Don't spend to mush to learn libraries, just try to solving the problem, when you need to learn some concepts of libraries specifically then you can also google it and learn it.
+
+- Do practice and keep learning also.
+    - We have to always keep learning the new techniques of how can we solve the specific problem with different approach, because their are more than one way to solve the problem.
+    - Do participate in most of the coding challenges.
+    
+- Note: Their is not necessary if you solve 1000 or 2000 challenges then you crack an interview, it just a probability not 100% sure, so always try to clearing the concepts of solving the problem but also try to solve more different types of problem.

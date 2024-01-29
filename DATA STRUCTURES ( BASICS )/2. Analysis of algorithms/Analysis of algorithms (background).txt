@@ -1,0 +1,4 @@
+- ANALYSIS OF ALGORITHMS
+    - Analysis of algorithms is very-very important before we start to writing an algorithm, before we learning data structures
+    - Why it is important
+        - Because for the given problem their are multiple

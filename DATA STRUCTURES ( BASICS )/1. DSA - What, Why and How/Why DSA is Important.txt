@@ -1,0 +1,10 @@
+- What is DSA?
+    - DSA stands for Data Structures And Algorithm.
+    - Data Structures means the way to organize data in main memory or RAM.
+    - Algorithm means the sequences of steps to solve a problem.
+
+- Why DSA is important
+    - Learning DSA is important because it makes us a better programmer or software developer.
+    - This teach us how to store the data in memory so that the machines (CPU) process the data faster, and give us output quickly.
+    - It help us to getting a job, because many companies take first round of DSA to filtered out the candidates. Many company also ask is in multiple round also.
+    - It also helps us to winning the sport of the competitive programming.
