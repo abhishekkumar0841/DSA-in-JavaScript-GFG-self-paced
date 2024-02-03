@@ -25,7 +25,7 @@ function myApo(a, b) {
 //Recursive solution
 function computingPower2(x, n) {
   if (n === 0) return 1;
-  temp = computingPower(x, Math.floor(n / 2));
+  temp = computingPower2(x, Math.floor(n / 2));
   temp = temp * temp;
 
   if (n % 2 === 0) {
